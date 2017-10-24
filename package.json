@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/zhengxiaoyao0716/react-native-modal-dialog/issues"
   },
-  "homepage": "https://github.com/zhengxiaoyao0716/react-native-modal-dialog#readme"
+  "homepage": "https://github.com/zhengxiaoyao0716/react-native-modal-dialog#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
 }

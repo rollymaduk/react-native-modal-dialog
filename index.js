@@ -1,5 +1,6 @@
 'use strict';
-import React, { Component, PropTypes, Children } from 'react';
+import React, { Component, Children } from 'react';
+import ProptTypes from 'prop-types';
 import {
     StyleSheet, Dimensions,
     Text, View, TouchableWithoutFeedback, TextInput, ScrollView,
